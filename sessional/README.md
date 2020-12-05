@@ -12,6 +12,8 @@
 
 <img width="185" alt="Capture2" src="https://user-images.githubusercontent.com/74717802/101237494-1744ad00-36fb-11eb-85cb-11950caa7e83.PNG">
 A new Flutter application.
+<img width="187" alt="Capture1" src="https://user-images.githubusercontent.com/74717802/101237496-19a70700-36fb-11eb-8ad8-18a3ad05eaa9.PNG">
+
 
 ## Getting Started
 
