@@ -1,6 +1,14 @@
 # sessional
 # splash screen
-#icons
+# Icons
+# Levels(hard & Simple)
+# Simple level
+# Hard Level
+# Go home screen
+# Exit Game button
+# Animations
+# Nevigation drawer
+# Contact us screen
 
 
 A new Flutter application.
