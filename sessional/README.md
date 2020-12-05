@@ -1,4 +1,5 @@
 # sessional
+# splash screen
 
 A new Flutter application.
 
